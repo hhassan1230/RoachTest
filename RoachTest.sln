@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{D8FA9536-22DD-A34F-3542-D086662CB118}") = "RoachTest", "Assembly-CSharp.csproj", "{535C071A-8D75-D4CF-9A5E-7D2EBD5D432D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{535C071A-8D75-D4CF-9A5E-7D2EBD5D432D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{535C071A-8D75-D4CF-9A5E-7D2EBD5D432D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{535C071A-8D75-D4CF-9A5E-7D2EBD5D432D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{535C071A-8D75-D4CF-9A5E-7D2EBD5D432D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
